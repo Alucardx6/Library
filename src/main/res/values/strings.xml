@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Library_train</string>
+    <string name="logo">Logo</string>
+    <string name="appname">My Library</string>
+    <string name="see_all_books">See All Books</string>
+    <string name="currently_reading_books">Currently Reading Books</string>
+    <string name="already_read_books">Already Read Books</string>
+    <string name="your_wishlist">Your Wishlist</string>
+    <string name="see_your_favorites">See Your Favorites</string>
+    <string name="about">About</string>
+    <string name="developed_by_sepehr_at_abyx">Developed By Sepehr at ABYX.ir</string>
+    <string name="not_found">not found</string>
+    <string name="book_image">book image</string>
+    <string name="currently_reading">Currently Reading</string>
+    <string name="want_to_read">Want To Read</string>
+    <string name="already_read">Already Read</string>
+    <string name="add_to_favorites">Add To Favorites</string>
+    <string name="book_name">Book Name:</string>
+    <string name="author">Author:</string>
+    <string name="pages">Pages:</string>
+    <string name="description">Description:</string>
+    <string name="the_mysterious">The Mysterious</string>
+    <string name="sepehr">Sepehr</string>
+    <string name="_150">150</string>
+    <string name="long_description_in_here">Long Description in Here</string>
+    <string name="arrow">arrow</string>
+    <string name="short_description">Short Description</string>
+    <string name="delete">Delete</string>
+</resources>
